@@ -12,19 +12,19 @@
 ```
 
 2. Big-O gösterimini yazınız:
- 
+```
 O(n^2)
-
+```
 3. Time Complexity: 
- 
+``` 
 Average case: 16, 18
 Worst case: 27
 Best case: 2
-
+```
 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız:
- 
+``` 
 Avarage case.
-
+```
 [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 ```
 [2,3,5,8,7,9,4,15,6]
